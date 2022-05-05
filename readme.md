@@ -1,5 +1,7 @@
 # Three.js Journey
 
+#3D Text Project made With THREE.JS
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
